@@ -1,0 +1,21 @@
+body {
+    background-color: green;
+}
+
+h1 {
+    color: gold;
+}
+div {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;                 
+}
+
+.shadow-text {
+    text-shadow: gray 1px 1px;
+}
+#large-paragraph {
+    font-size: 30px;
+}
+
